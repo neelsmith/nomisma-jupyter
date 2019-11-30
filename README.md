@@ -1,2 +1,4 @@
 # nomisma-jupyter
-Jupyter notebooks illustrating usage of nomisma librry
+
+
+Jupyter notebooks illustrating usage of `nomisma` library.
